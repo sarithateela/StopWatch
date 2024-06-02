@@ -2,7 +2,9 @@
 
 body {
     background-color: powderblue;
-    background-image: linear-gradient(to left, powderblue, rgb(192, 128, 139));
+    background-image: url('https://wallpapers.com/images/featured/plain-background-0aqx3e65vih1xev1.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
     font-family: "Oswald", sans-serif;
     display: flex;
     flex-direction: column;
